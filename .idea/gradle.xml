@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Coffee Machine (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Comment some lines" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Find the correct comment" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Hello, Kotlin" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Unused comments" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/How many primary constructors" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Implicit constructor" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Point2D" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Composition" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/New planet" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Operations on var objects" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/True statements" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Comparing sums" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Get last digit" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Return type" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/The square of a number" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Gratuity" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Invocations" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Print Username" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Currencies" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Currency comparison" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Methods and parameters of Enum" />
+            <option value="$PROJECT_DIR$/Topics/Enum/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four functions" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Example of functional decomposition" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Items of functional decomposition" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Roots of quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Some exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Arithmetic operations" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Bugs in a vinyl store" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Volume of a cube" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Correct invocations" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Find the correct invocations" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Perimeter" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/URL" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/City population" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Facts about setters" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Field access" />
+            <option value="$PROJECT_DIR$/Topics/Property accessors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/At least one" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Job" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Not in range" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Working hours" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Relational operators/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Print a string exactly ten times" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string" />
+            <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
+            <option value="$PROJECT_DIR$/Topics/String basics/The string size" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Print two numbers on the same line" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Repetitions and templates" />
+            <option value="$PROJECT_DIR$/Topics/String templates/String and its Int" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Templates for expressions" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
+            <option value="$PROJECT_DIR$/Topics/When expression/From string to a number" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Just checking" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Shape" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Strings as objects" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
